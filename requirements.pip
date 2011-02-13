@@ -1,0 +1,7 @@
+distribute==0.6.14
+logilab-astng==0.21.1
+logilab-common==0.54.0
+nose==1.0.0
+pylint==0.23.0
+unittest2==0.5.1
+wsgiref==0.1.2
