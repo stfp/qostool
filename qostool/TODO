@@ -1,0 +1,5 @@
+- fix format assumptions (vserver split by "." )
+
+- per service qos.map ( don't count specific urls )
+
+- graphing module (give good values for better graphs)
